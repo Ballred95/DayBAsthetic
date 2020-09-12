@@ -2,9 +2,11 @@
 
 
 
-    .navigationWrapper{
-    flex-direction: column;
-    height: 100%;
+    .navigationWrapper {
+        flex-direction: column;
+        height: 100%;
+        padding: 0px;
+        
     }
 
     .navigationWrapper > .left-column{
