@@ -44,9 +44,9 @@
         padding: 50px 10px;
     }
     
-    .featuresSection{
+    /* .featuresSection{
         height: 100%;
-    }
+    } */
     
     .featuresSection > .columnWrapper{
         width: 100%;
@@ -96,5 +96,7 @@
     .form input, .form textarea{
         padding: 1.5em 0rem;
     }
+
+    
 
 }
